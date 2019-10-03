@@ -1,4 +1,5 @@
 - composer install
 - установить .env 
+- php artisan migrate
 - npm install
 - npm run dev
